@@ -1,3 +1,4 @@
+// Modified for COSC 362 Git and GitHub lab
 #include <stdio.h>
 #include <stdlib.h>
 /* 
